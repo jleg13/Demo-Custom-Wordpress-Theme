@@ -1,7 +1,7 @@
 /* ==== GENERAL ==== */
 
 body {
-    font-family: 'Cinzel', serif;
+
     font-size: 16px;
     background: url('../img/tile.jpg') top left repeat;
 }
@@ -51,7 +51,7 @@ a:visited {
 
 a:hover {
     text-decoration: none;
-    color: $secondary-color;
+    color: rgb(202, 108, 108);
 }
 
 blockquote {
