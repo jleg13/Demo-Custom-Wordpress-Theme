@@ -1,0 +1,21 @@
+.feature-image {	
+	display: table;
+	width: 100%;
+}
+
+.feature-image-default {
+	background: url('/dist/img/water13.jpg') no-repeat;
+	background-size: cover;
+}
+
+.feature-image-default-alt {
+	background: url('/dist/img/water4.jpg') no-repeat;
+	background-size: cover;
+}
+
+.feature-image h1 {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	color: white;
+}

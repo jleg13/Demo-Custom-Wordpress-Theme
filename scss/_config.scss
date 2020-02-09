@@ -1,0 +1,44 @@
+// override default colors
+$theme-colors: ("primary": rgb(107, 107, 107),
+    "secondary": #fff);
+
+// import bootstrap
+@import "../bootstrap/scss/bootstrap";
+
+$primary-color:#fff;
+$secondary-color:rgb(75, 75, 75);
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+//mixin for transitions
+@mixin transition-ease {
+    transition: all 0.4s ease-in-out;
+}
+
+@function set-text-color($color) {
+    @if (lightness($color) > 40%) {
+        @return #000;
+    }
+
+    @else {
+        @return #fff;
+    }
+}
+
+.trans-hover {
+    @include transition-ease;
+
+    &:hover {
+        color: $secondary-color;
+    }
+}
+
+@mixin mediaNavLayoutSm {
+    @media screen and (min-width: 370px) {
+        @content;
+    }
+}
