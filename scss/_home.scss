@@ -151,6 +151,12 @@ a.text-danger:hover {
 .nav-brand {
     font-family: 'Parisienne', cursive;
 }
+.nav a{
+    color: #fff;
+    &:hover{
+        color: rgb(202, 108, 108);
+    }
+}
 
 /* === CUSTOM ICON SPRITES === */
 
