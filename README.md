@@ -9,7 +9,7 @@ In this project I wanted to expand the scope of my web development skillset. Whi
 
 ## Deployment
 
-Currently deployed at my[jlg-wordpress-demo](https://jleg13.educationhost.cloud).
+Currently deployed at my [jleg13-wordpress-demo](https://jleg13.educationhost.cloud).
 
 ## Built With
 
