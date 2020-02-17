@@ -3,9 +3,9 @@
 ## Project Description
 
 In this project I wanted to expand the scope of my web development skillset. Whilst taking a course on Udemy I was able to learn the core principles of using the WordPress CMS and building a dynamic custom WordPress theme from a static website. Key skills used in this project are:
-  -responsive design using Bootstrap
-  -Parrallax effect for images
-  -WordPress development including working blog and utilising plug-ins
+  - responsive design using Bootstrap
+  - Parrallax effect for images
+  - WordPress development including working blog and utilising the popular plugins Anvanced Custom Fields, Custom Post Type UI and Contact Form 7
 
 ## Deployment
 
