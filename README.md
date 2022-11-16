@@ -7,21 +7,14 @@ In this project I wanted to expand the scope of my web development skillset. Whi
   - Parrallax effect for images
   - WordPress development including working blog and utilising the popular plugins Anvanced Custom Fields, Custom Post Type UI and Contact Form 7
 
-## Deployment
-
-Currently deployed at my [jleg13-wordpress-demo](https://jleg13.educationhost.cloud).
-
 ## Built With
 
-* [Bootstrap](https://getbootstrap.com/) - Front-end framework
-* [WordPress](https://wordpress.org/) - Content Management System
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ## Authors
 
 * **Joshua Le Gresley** - *Initial work* - [jleg13](https://https://github.com/jleg13).
 
-## Support:
-Please email jlegresl@une.edu.au if further details are required.
-
-## Contributing:
-For major changes, please open an issue first to discuss what you would like to change.
+## Support
+Please email joshualegresley@gmail.com if further details are required.
